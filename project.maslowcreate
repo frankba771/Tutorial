@@ -94,8 +94,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1870,
+                    "y": 237,
                     "ioValues": []
                 }
             ],
@@ -175,7 +175,7 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 272,
+                    "x": 271,
                     "y": 158,
                     "uniqueID": 950419,
                     "ioValues": [],
@@ -231,8 +231,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 702,
-                    "y": 56,
+                    "x": 699,
+                    "y": 59,
                     "uniqueID": 800690,
                     "ioValues": [],
                     "readmeText": "Molecules like this one let you layer your model to create more space. Real estate on the screen is intentionally limited to keep projects from becoming cluttered. There is no limit to how deep you can logically nest Atoms in Molecules"
@@ -248,8 +248,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 716,
-                    "y": 282,
+                    "x": 719,
+                    "y": 284,
                     "uniqueID": 606302,
                     "ioValues": [],
                     "readmeText": "This difference Atom subtracts one shape from another. For the opposite behavior check out the intersection atom."
@@ -288,8 +288,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 1105,
-                    "y": 123,
+                    "x": 1114,
+                    "y": 122,
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
@@ -297,8 +297,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1870,
+                    "y": 237,
                     "ioValues": []
                 }
             ],
@@ -366,5 +366,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 2
+    "circleSegmentSize": "7.9"
 }
